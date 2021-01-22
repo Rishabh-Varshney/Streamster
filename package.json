@@ -2,7 +2,6 @@
 	"name": "streamster",
 	"version": "1.0.0",
 	"description": "Online Video-Sharing Platform",
-	"main": "index.js",
 	"author": "Rishabh Varshney",
 	"license": "ISC",
 	"dependencies": {
