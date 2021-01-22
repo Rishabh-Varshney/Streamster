@@ -1,14 +1,14 @@
 {
-  "name": "streamster",
-  "version": "1.0.0",
-  "description": "Online Video-Sharing Platform",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "Rishabh Varshney",
-  "license": "ISC",
-  "dependencies": {
-    "express": "^4.17.1"
-  }
+	"name": "streamster",
+	"version": "1.0.0",
+	"description": "Online Video-Sharing Platform",
+	"main": "index.js",
+	"author": "Rishabh Varshney",
+	"license": "ISC",
+	"dependencies": {
+		"express": "^4.17.1"
+	},
+	"scripts": {
+		"start": "node index.js"
+	}
 }
