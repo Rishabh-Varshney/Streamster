@@ -13,4 +13,4 @@ Online Video-Sharing Platform
 - [ ] Change Password
 - [ ] Upload
 - [ ] Video Detail
-- [ ] Edit Video
+- [x] Edit Video
