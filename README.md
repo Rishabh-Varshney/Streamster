@@ -9,8 +9,8 @@ Online Video-Sharing Platform
 - [x] Login
 - [x] Search
 - [ ] User Detail
-- [ ] Edit Profile
-- [ ] Change Password
-- [ ] Upload
+- [x] Edit Profile
+- [x] Change Password
+- [x] Upload
 - [ ] Video Detail
 - [x] Edit Video
